@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.input-style {
+  @apply border border-slate-900 px-4 py-2 rounded-md w-full focus:outline-none focus:ring-1 focus:ring-slate-900;
+}
+
+.btn-style {
+  @apply px-6 py-2 rounded-xl bg-sky-400 font-bold text-slate-900 hover:bg-sky-300 transition-all;
+}

@@ -1,0 +1,183 @@
+[
+    {
+        "id":1,
+        "company" :"Shuruwaat.com",
+        "role" :"AI Content Creation",
+        "location":"Howrah",
+        "package":"2,20,000 /year",
+        "applyURL":"https://internshala.com/job/detail/fresher-ai-content-creation-job-in-howrah-at-shuruwaatcom1770708093",
+        "skills" :["Artificial Intelligence","Content Creation","Display Ads"]
+    },
+    {
+        "id":2,
+        "company" :"Dextop",
+        "role" :"Associate Software Developer",
+        "location":"Bhopal",
+        "package":"2,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-associate-software-developer-job-in-bhopal-at-dextop1769261416",
+        "skills" :["Python","C++ Programming","Embedded Systems","Data Structures"]
+    },
+    {
+        "id":3,
+        "company" :"NOESiS Pixel Art Pvt Ltd",
+        "role" :"AI Excecutive",
+        "location":"Surat",
+        "package":"2,20,000-4,20,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-artificial-intelligence-ai-executive-job-in-surat-at-noesis-pixel-art-private-limited1770195690",
+        "skills" :["Artificial Intelligence","ChatGPT","Gemini","Marketing Strategies"]
+    },
+    {
+        "id":4,
+        "company" :"Godavari Biorefineries Limited",
+        "role" :"Full Stack Developer",
+        "location":"Mumbai",
+        "package":"2,50,000-3,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-full-stack-developer-job-in-mumbai-at-godavari-biorefineries-limited1770715721",
+        "skills" :["HTML","CSS","JavaScript","Git","Android","MERN"]
+    },
+    {
+        "id":5,
+        "company" :"August Assortments Pvt Ltd",
+        "role" :"Software Developer",
+        "location":"Bangalore",
+        "package":"5,50,000-6,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-software-developer-job-in-bangalore-at-august-assortments-private-limited1770715472",
+        "skills" :["HTML","CSS","Java","MySQL","Python","JavaScript",".NET"]
+    },
+    {
+        "id":6,
+        "company" :"Framed",
+        "role" :"AI Generalist",
+        "location":"Kolkata",
+        "package":"2,00,000-3,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-ai-generalist-job-in-kolkata-at-framed1770629029",
+        "skills" :["Artificial Intelligence","Prompt Engineering"]
+    },
+    {
+        "id":7,
+        "company" :"Elicius Energy Private Limited",
+        "role" :"Full Stack Developer",
+        "location":"Chennai",
+        "package":"2,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-full-stack-developer-job-in-chennai-at-elicius-energy-private-limited1770699085",
+        "skills" :["MySQL","REST API","MongoDB","JavaScript","Python","React.js","FastAPI"]
+    },
+    {
+        "id":8,
+        "company" :"ViralChilly",
+        "role" :"Junior WordPress Developer",
+        "location":"Jaipur",
+        "package":"2,00,000-2,18,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-junior-wordpress-developer-job-in-jaipur-at-viralchilly1770360021",
+        "skills" :["PHP","WordPress","HTML","CSS","JavaScript"]
+    },
+    {
+        "id":9,
+        "company" :"COMPCRAFT",
+        "role" :"WordPress Developer",
+        "location":"Mumbai",
+        "package":"2,40,000 /year",
+        "applyURL":" https://internshala.com/job/detail/frontend-developer-job-in-mumbai-at-compcraft1769848296",
+        "skills" :["PHP","MySQL","HTML","Node.js","CSS","JavaScript","WordPress"]
+    },
+    {
+        "id":10,
+        "company" :"Studio Frontier",
+        "role" :"Junior Full Stack Developer",
+        "location":"Mumbai",
+        "package":"3,00,000-6,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-junior-full-stack-developer-job-in-mumbai-at-studio-frontier1770708872",
+        "skills" :["JavaScript","Python","Automation","TypeScript","React Native","ORM","React.js"]
+    },
+    {
+        "id":11,
+        "company" :"Pinkmoon Technologies",
+        "role" :"Associate Software Developer",
+        "location":"Tirupati",
+        "package":"2,00,000-2,20,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-associate-software-developer-job-in-tirupati-at-pinkmoon-technologies1770614219",
+        "skills" :["Python","NLP","AIML"]
+    },
+    {
+        "id":12,
+        "company" :"DigiEn InfoSoft LLP",
+        "role" :"Java Developer",
+        "location":"Surat",
+        "package":"2,00,000-2,50,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-java-developer-job-in-surat-at-digien-infosoft-llp1768536259",
+        "skills" :["Java","Bootstrap","Spring MVC","MySQL","JSP"]
+    },
+    {
+        "id":13,
+        "company" :"Mindtel Global Private Limited",
+        "role" :"AI Content Creation",
+        "location":"Noida",
+        "package":"3,50,000-4,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-artificial-intelligence-ai-trainee-job-in-noida-at-mindtel-global-private-limited1770650425",
+        "skills" :["Python","React.js","Machine Learning","GenAI","Artificial Intelligence","Effective Communication","NLP"]
+    },
+    {
+        "id":14,
+        "company" :"UXDLAB Software Pvt Ltd",
+        "role" :"Full Stack Developer",
+        "location":"Ghaziabad",
+        "package":"3,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-full-stack-developer-job-in-ghaziabad-at-uxdlab-software-private-limited1770647326",
+        "skills" :["PHP","MySQL","MongoDB","HTML","CSS","JavaScript","Python"]
+    },
+    {
+        "id":15,
+        "company" :"TotalVDO",
+        "role" :"Software Developer",
+        "location":"Ghaziabad",
+        "package":"3,50,000-4,50,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-part-time-software-developer-job-in-multiple-locations-at-totalvdo1770623303",
+        "skills" :["Node.js","Python","React.js"]
+    },
+    {
+        "id":16,
+        "company" :"NetTech India",
+        "role" :"Web Developer",
+        "location":"Mumbai",
+        "package":"2,00,000-3,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-web-developer-job-in-mumbai-at-nettech-india1770618763",
+        "skills" :["HTML","CSS","React.js","JavaScript"]
+    },
+    {
+        "id":17,
+        "company" :"EazyGrad",
+        "role" :"Low-Code Developer",
+        "location":"Delhi",
+        "package":"4,20,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-low-code-developer-job-in-delhi-at-eazygrad1770617411",
+        "skills" :["Wix","WordPress","Webflow","Framer","No?Code Development"]
+    },
+    {
+        "id":18,
+        "company" :"Zu3itech Solution",
+        "role" :"Junior .NET Developer",
+        "location":"Work from home",
+        "package":"8,00,000-9,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-remote-junior-net-developer-job-at-zu3itech-solution1770610348",
+        "skills" :["HTML","CSS","JavaScript"]
+    },
+    {
+        "id":19,
+        "company" :"Zu3itech Solution",
+        "role" :"Junior Backend Developer",
+        "location":"Work from home",
+        "package":"6,00,000-8,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-remote-junior-backend-developer-job-at-zu3itech-solution1770528970",
+        "skills" :["Java","PHP","MySQL","HTML"]
+    },
+    {
+        "id":20,
+        "company" :"SoftSensor.ai",
+        "role" :"Associate Data Scientist",
+        "location":"Gurgaon",
+        "package":"5,00,000-6,00,000 /year",
+        "applyURL":" https://internshala.com/job/detail/fresher-associate-data-scientist-job-in-multiple-locations-at-softsensorai1770369714",
+        "skills" :["Python","MySQL","NLP","Deep Learning","Machine Learning","Data Science"]
+    }
+    
+]

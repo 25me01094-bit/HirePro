@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "company": "Brics and Pixels Pvt Ltd",
+    "role": "3D Video Artist",
+    "stipend": "7,500-12,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/3d-video-artist-internship-in-noida-at-bricks-and-pixels-pvt-ltd1770027844",
+    "location" :"Noida",
+    "skills" :["Video Editing","Adobe Premiere Pro","Adobe After Effects","Blender 3D","Unreal Engine","Canva","3D Animation"]
+  },
+  {
+    "id": 2,
+    "company": "UpGrad Rekrut",
+    "role": "NATS Trainee(Chemical)",
+    "stipend": "11,000 /month",
+    "duration": "1 year",
+    "applyUrl": "https://internshala.com/internship/detail/nats-trainee-internship-in-dera-bassi-at-monika-tandon1768907486",
+    "location" :"Dera Bassi",
+    "skills":["Effective Communication"]
+  },
+  {
+    "id": 3,
+    "company": "Leadnex Marketing",
+    "role": "Automation and Systems(n8n/APIs/AI-assisted Development",
+    "stipend": "13,000-20,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/automation-systems-n8n-apis-ai-assisted-development-internship-in-gurgaon-at-leadnex-marketing1768799994",
+    "location" :"Gurgaon, Faridabad, Noida & Delhi",
+    "skills" :["JavaScript","Node.js","PostgreSQL","HTTP","JSON","Automation","SQLite"]
+  },
+  {
+    "id": 4,
+    "company": "Tanked IND Aquatic Kingdom LLP",
+    "role": "Photography",
+    "stipend": "5,000-10,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/photography-internship-in-multiple-locations-at-tanked-ind-aquatic-kingdom-llp1766994601",
+    "location" :"Delhi, Ghaziabad",
+    "skills" :["Adobe Photoshop","Video Editing","Photography","Video Making"]
+  },
+  {
+    "id": 5,
+    "company": "SAS Group",
+    "role": "Game Art Developer",
+    "stipend": "12,000-15,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/work-from-home-game-art-developer-internship-at-sas-group1768912850",
+    "location" :"Work from Home",
+    "skills" :["Adobe Photoshop","Adobe Illustrator","Blender 3D","Unity Engine","Autodesk Maya"]
+  },
+  {
+    "id": 6,
+    "company": "TPS Technologies",
+    "role": "Customer Service/Customer Request",
+    "stipend": "7,000-10,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/customer-service-customer-support-internship-in-lucknow-at-tps-technologies1768196492",
+    "location" :"Lucknow",
+    "skills":["MS-Office","English-Proefficiency"]  },
+  {
+    "id": 7,
+    "company": "Go Alpha Kids",
+    "role": "Website Development",
+    "stipend": "3,000-5,000 /month",
+    "duration": "2 months",
+    "applyUrl": "https://internshala.com/internship/detail/website-development-internship-in-pune-at-go-alpha-kids1770630716",
+    "location" :"Pune(Hybrid)",
+    "skills":["WordPress","Shopify","Search Engine Optimization"]
+  },
+  {
+    "id": 8,
+    "company": "Bilateral Solutions Pvt Ltd",
+    "role": "Embedded Systems",
+    "stipend": "10,000-12,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/embedded-systems-internship-in-multiple-locations-at-bilateral-solutions-private-limited1769144324",
+    "location" :"Mandi, Himachal Pradesh",
+    "skills":["Python","ARM Microcontroller","Raspberry Pi","Arduino","Embedded Systems","C Programming","C++ Programming"]
+  },
+  {
+    "id": 9,
+    "company": "Mindmyweb",
+    "role": "Zbrush Artist",
+    "stipend": "16,000-21,000 /month",
+    "duration": "4 months",
+    "applyUrl": "https://internshala.com/internship/detail/zbrush-artist-internship-in-delhi-at-mindmyweb1768200541",
+    "location" :"Delhi",
+    "skills":["Blender 3D","Zbrush"]
+  },
+  {
+    "id": 10,
+    "company": "TAMIZH",
+    "role": "Android System Framework Engineer",
+    "stipend": "10,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/android-system-framework-engineer-internship-in-chennai-at-tamizh1769171687",
+    "location" :"Chennai",
+    "skills":["C Programming","Git","Figma","C++ Programming","OpenGL","Android"]
+  },
+  {
+    "id": 11,
+    "company": "Sarkari Scan",
+    "role": "QA Testing",
+    "stipend": "13,000-16,000 /month",
+    "duration": "2 months",
+    "applyUrl": "https://internshala.com/internship/detail/work-from-home-qa-testing-internship-at-sarkari-scan1770610432",
+    "location" :"Work from Home",
+    "skills":["Software Testig","Bug Tracking","Report Generation"]
+  },
+  {
+    "id": 12,
+    "company": "Scaler",
+    "role": "Subject Matter Expert",
+    "stipend": "24,000-35,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/work-from-home-subject-matter-expert-sme-internship-at-scaler1770363288",
+    "location" :"Work from Home",
+    "skills":["Java","SpringBoot"]
+  },
+  {
+    "id": 13,
+    "company": "NTT Data",
+    "role": "Network Engineering",
+    "stipend": "8,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/work-from-home-network-engineering-internship-at-ntt-data1770358243",
+    "location" :"Work from Home",
+    "skills":["Linux","CCNA","Computer Networks"]
+  },
+  {
+    "id": 14,
+    "company": "Applus IDIADA Automative Technology",
+    "role": "Mechanical Engineer",
+    "stipend": "15,000-18,000 /month",
+    "duration": "6 months",
+    "applyUrl": "https://internshala.com/internship/detail/mechanical-engineering-internship-in-indore-at-applus-idiada-automotive-technology1769159204",
+    "location" :"Indore",
+    "skills":["TestNG"]
+  },
+  {
+    "id": 15,
+    "company": "Paracoat Products Limited",
+    "role": "Product Development",
+    "stipend": "10,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/product-development-internship-in-gurgaon-at-paracoat-products-limited1768466472",
+    "location" :"Gurgaon",
+    "skills":["AutoCAD","MS-Excel","Effective Communication","English-Proefficiency","Product Development"]
+  },
+  {
+    "id": 16,
+    "company": "Go Alpha Kids",
+    "role": "Robotics & AI Foundations",
+    "stipend": "5,000-10,000 /month",
+    "duration": "6 weeks",
+    "applyUrl": "https://internshala.com/internship/detail/part-time-robotics-ai-foundations-internship-in-multiple-locations-at-go-alpha-kids1770630039",
+    "location" :"Hyderabad, Bangalore",
+    "skills":["Creative Thinking","Problem Solving"]
+  },
+  {
+    "id": 17,
+    "company": "Brics 4 Kidz",
+    "role": "Robotics",
+    "stipend": "6,510-8,011 /month",
+    "duration": "4 months",
+    "applyUrl": "https://internshala.com/internship/detail/robotics-internship-in-delhi-at-bricks-4-kidz1770199760",
+    "location" :"Delhi",
+    "skills":["Python","C Programming","Artificial Intelligence","Robotics"]
+  },
+  {
+    "id": 18,
+    "company": "BotMakers Private Limited",
+    "role": "Technical Workshop",
+    "stipend": "2,000-5,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/technical-workshop-internship-in-pune-at-botmakers-private-limited1770631924",
+    "location" :"Pune",
+    "skills":["Arduino","Raspberry Pi","ESP32","Robot Operating Systems(ROS)"]
+  },
+  {
+    "id": 19,
+    "company": "Relu Consultancy",
+    "role": "Flutter Developer",
+    "stipend": "10,000-15,000 /month",
+    "duration": "3 months",
+    "applyUrl": "https://internshala.com/internship/detail/flutter-developer-internship-in-bhopal-at-relu-consultancy1770627379",
+    "location" :"Bhopal",
+    "skills":["JSON","Flutter","APIs","Rest API","Dart"]
+  },
+  {
+    "id": 20,
+    "company": "Rancho Labs",
+    "role": "Game Development Instructor",
+    "stipend": "12,000-15,000 /month",
+    "duration": "5 months",
+    "applyUrl": "https://internshala.com/internship/detail/part-time-game-development-instructor-internship-in-multiple-locations-at-rancho-labs1770622514",
+    "location" :"Delhi, Gurgaon, Noida",
+    "skills":["Game Development"]
+  }
+
+]
