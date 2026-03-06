@@ -2,7 +2,7 @@ import React from "react";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import jobs from "../data/jobs.json";
 import {
     FaMapMarkerAlt,
@@ -14,6 +14,16 @@ import {
 
 const Company = () => {
     const [openIndex, setOpenIndex] = useState(null);
+    useEffect(() => {
+        const job_id = localStorage.getItem("job_card");
+        if (job_id !== null) {
+            setOpenIndex(parseInt(job_id));
+            const element = document.getElementById(job_id);
+            if (element) {
+                element.scrollIntoView({ behavior: "smooth", block: "center" });
+                localStorage.removeItem("job_card")
+            }
+        }}, []);
     return (<>
         <Navbar />
         <section className="min-h-screen bg-slate-100 px-6 py-16">
@@ -31,6 +41,7 @@ const Company = () => {
                     {jobs.map((item, index) => (
                         <div
                             key={item.id}
+                            id={`${index}`}
                             className="bg-white rounded-3xl shadow-xl p-6 md:p-8 border border-slate-200"
                         >
                             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
@@ -90,7 +101,7 @@ const Company = () => {
                                         ? "Hide Details"
                                         : "View Job Details"}
                                 </button>
-                                {openIndex === index && (
+                                {(openIndex === index) && (
                                     <div className="mt-6 space-y-6 text-slate-700">
                                         <div>
                                             <h3 className="font-bold text-slate-900 mb-2">

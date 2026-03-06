@@ -8,10 +8,12 @@ import {
 } from "react-icons/fa";
 import { FaMapLocationDot } from "react-icons/fa6";
 import data from "../data/jobs.json";
+import { useNavigate } from "react-router-dom";
 
 const JobCarousel = () => {
     const [jobs, setJobs] = useState([]);
     const [index, setIndex] = useState(0);
+    const navigate=useNavigate();
 
     useEffect(() => {
         setJobs(data);
@@ -72,7 +74,9 @@ const JobCarousel = () => {
                                         Apply <FaArrowRight />
                                     </a>
 
-                                    <button className="px-4 py-2 rounded-xl bg-sky-500 text-slate-900 font-bold hover:bg-sky-300 transition">
+                                    <button className="px-4 py-2 rounded-xl bg-sky-500 text-slate-900 font-bold hover:bg-sky-300 transition" onClick={()=>{
+                                        navigate("/company")
+                                        localStorage.setItem("job_card",JSON.stringify(i))}}>
                                         Know More
                                     </button>
                                 </div>

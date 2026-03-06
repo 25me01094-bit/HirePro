@@ -2,7 +2,7 @@ import React from "react";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import internships from "../data/internship.json";
 import {
     FaMapMarkerAlt,
@@ -14,6 +14,16 @@ import {
 
 const Internships = () => {
     const [openIndex, setOpenIndex] = useState(null);
+    useEffect(() => {
+        const intern_id = localStorage.getItem("intern_card");
+        if (intern_id !== null) {
+            setOpenIndex(parseInt(intern_id));
+            const element = document.getElementById(intern_id);
+            if (element) {
+                element.scrollIntoView({ behavior: "smooth", block: "center" });
+                localStorage.removeItem("intern_card")
+            }
+        }}, []);
     return (<>
         <Navbar />
         <section className="min-h-screen bg-slate-100 px-6 py-16">
@@ -31,6 +41,7 @@ const Internships = () => {
                     {internships.map((item, index) => (
                         <div
                             key={item.id}
+                            id={`${index}`}
                             className="bg-white rounded-3xl shadow-xl p-6 md:p-8 border border-slate-200"
                         >
                             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">

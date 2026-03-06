@@ -9,10 +9,12 @@ import {
 } from "react-icons/fa";
 import { FaMapLocationDot } from "react-icons/fa6";
 import data from "../data/internship.json";
+import { useNavigate } from "react-router-dom";
 
 const InternshipCarousel = () => {
     const [internships, setInternships] = useState([]);
     const [index, setIndex] = useState(0);
+    const navigate=useNavigate();
 
     useEffect(() => {
         setInternships(data);
@@ -78,7 +80,9 @@ const InternshipCarousel = () => {
                                         Apply <FaArrowRight />
                                     </a>
 
-                                    <button className="px-4 py-2 rounded-xl bg-sky-500 text-slate-900 font-bold hover:bg-sky-300 transition">
+                                    <button className="px-4 py-2 rounded-xl bg-sky-500 text-slate-900 font-bold hover:bg-sky-300 transition" onClick={()=>{navigate("/internship");
+                                        localStorage.setItem("intern_card",JSON.stringify(i));
+                                    }}>
                                         Know More
                                     </button>
                                 </div>

@@ -29,7 +29,7 @@ const Navbar = () => {
 
     return (
         <>
-            <header className="bg-slate-800 relative text-white w-full px-6 py-4 flex items-center justify-between">
+            <header className="bg-slate-800 sticky top-0  text-white w-full px-6 py-4  flex items-center justify-between">
 
                 <span className="text-3xl font-bold bg-gradient-to-r from-sky-400 to-purple-600 bg-clip-text text-transparent">
                     <Link to="/">HirePro</Link>
