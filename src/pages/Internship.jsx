@@ -98,7 +98,7 @@ const Internships = () => {
                                     onClick={() =>
                                         setOpenIndex(openIndex === index ? null : index)
                                     }
-                                    className="text-sky-600 font-semibold hover:underline"
+                                    className="text-sky-600 font-semibold hover:underline cursor-pointer"
                                 >
                                     {openIndex === index
                                         ? "Hide Details"
