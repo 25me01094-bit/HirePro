@@ -13,6 +13,8 @@ const Footer = () => {
                     <li><Link to="/companies" className="hover:text-sky-400 transition">Companies</Link></li>
                 </ul>
             </div>
+
+            
             <div className="flex gap-2.5 scale-110">
             <a href="https://github.com/webd-iitbbs" target="_blank" rel="noopener" className="hover:-translate-y-1 transition-all ease-in-out"><FaGithub /></a>
             <a href="https://in.linkedin.com/company/webd-iitbbs" target="_blank" rel="noopener" className="hover:-translate-y-1 transition-all ease-in-out"><FaLinkedin /></a>
